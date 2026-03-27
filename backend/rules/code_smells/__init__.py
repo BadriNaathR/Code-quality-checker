@@ -1,0 +1,1 @@
+# Code smells rules package
